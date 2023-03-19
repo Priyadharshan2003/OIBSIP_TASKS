@@ -4,7 +4,7 @@
 
 ## Tasks
 
-### Iris Flower Classification - In this project, I analyzed and classified the iris flower species using machine learning algorithms. I used the famous Iris dataset to train my models and evaluate their performance.
+### [Iris Flower Classification](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE/tree/main/Task-1_Flower_Iris) - In this project, I analyzed and classified the iris flower species using machine learning algorithms. I used the famous Iris dataset to train my models and evaluate their performance.
 
 ### Unemployment Analysis - In this project, I analyzed the unemployment rates from given dataset. I visualized the data and found patterns and trends in the data using Python's data visualization libraries.
 
