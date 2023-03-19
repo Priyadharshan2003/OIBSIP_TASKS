@@ -6,7 +6,7 @@
 
 ### [Iris Flower Classification](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE/tree/main/Task-1_Flower_Iris) - In this project, I analyzed and classified the iris flower species using machine learning algorithms. I used the famous Iris dataset to train my models and evaluate their performance.
 
-### Unemployment Analysis - In this project, I analyzed the unemployment rates from given dataset. I visualized the data and found patterns and trends in the data using Python's data visualization libraries.
+### [Unemployment Analysis](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE/tree/main/Task-2_unemployment) - In this project, I analyzed the unemployment rates from given dataset. I visualized the data and found patterns and trends in the data using Python's data visualization libraries.
 
 ### Car Price Prediction - In this project, I built a machine learning model to predict the prices of used cars. I used the famous  dataset and trained my model using regression algorithms.
 
