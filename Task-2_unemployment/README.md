@@ -16,6 +16,6 @@
 
 ### 8.Create another histogram using Seaborn to visualize the employment to population ratio (EUR) for each state in India.
 
-#### 9.Create a sunburst plot using Plotly Express to visualize the unemployment rate (EUR) for each state in India by region.
+### 9.Create a sunburst plot using Plotly Express to visualize the unemployment rate (EUR) for each state in India by region.
 
 ## The data used in this code contains information about the unemployment rate, employment to population ratio, and labor force participation rate for each state in India from May 2019 to April 2020. The code uses different visualization techniques to explore the data and understand the unemployment situation in India during this period.
